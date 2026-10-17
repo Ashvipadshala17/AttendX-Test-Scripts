@@ -16,3 +16,6 @@ This repository contains automation test scripts for the AttendX Student Attenda
 - Git
 - GitHub
 - Visual Studio Code
+## Project Status
+
+AttendX automation testing is in progress.
