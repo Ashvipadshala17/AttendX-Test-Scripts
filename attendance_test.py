@@ -4,7 +4,9 @@ def test_attendance():
 
     assert attendance == "Present"
 
-    print(student, "Attendance Test Passed")
+    print("Student:", student)
+    print("Attendance:", attendance)
+    print("Attendance Test Passed")
 
 
 test_attendance()
